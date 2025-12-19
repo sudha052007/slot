@@ -27,12 +27,6 @@ Execute the program using runserver command.
 ## PROGRAM
 
 
-<html>
-    <body>
-        <img src="logo.png" width="1000" height="200" title="SEC logo">
-        <br><br>
-        <table border="2" cellspacing="3" cellpadding="11">
-            
             <caption ><b>SLOT TIME TABLE (G.sudharshini-25013290)</b></caption>
             
             <tr bgcolor="cyan">
